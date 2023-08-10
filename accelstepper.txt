@@ -1,0 +1,4 @@
+【介绍网站】http://www.taichi-maker.com/homepage/reference-index/arduino-library-index/accelstepper-library/#intro
+【库官方】http://www.airspayce.com/mikem/arduino/AccelStepper/index.html
+【arduino官方】https://www.arduino.cc/reference/en/libraries/accelstepper/
+【B站课程】https://www.bilibili.com/video/BV1rt411i7td?spm_id_from=333.337.search-card.all.click&vd_source=f38530d6f178163c2d9722c77c97093d

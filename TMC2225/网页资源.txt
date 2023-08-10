@@ -1,0 +1,5 @@
+【（外）别人照抄下面的教程】https://www.youtube.com/watch?v=iIs82XkTvhY
+【（外）使用的链接】https://wiki.fysetc.com/TMC2225/
+【B站-直接调芯片寄存器（废弃）】https://www.bilibili.com/video/BV1Aa411v7e5?spm_id_from=333.337.search-card.all.click&vd_source=f38530d6f178163c2d9722c77c97093d
+【GitHub2208资料】https://github.com/teemuatlut/TMC2208Stepper
+【GitHubTMC步进系列资料】https://github.com/teemuatlut/TMCStepper

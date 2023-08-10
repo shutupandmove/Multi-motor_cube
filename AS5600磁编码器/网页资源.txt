@@ -1,0 +1,4 @@
+【代码实现_I2C_滤波算法】https://blog.csdn.net/qqliuzhitong/article/details/121795481
+【github_文件资源等】https://github.com/kanestoboi/AS5600
+【（外）as5600编程_1】https://www.youtube.com/watch?v=yvrpIYc9Ll8
+【（外）as5600编程_2】https://www.youtube.com/watch?v=NY8RllFVrZg
