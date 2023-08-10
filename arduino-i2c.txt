@@ -1,0 +1,12 @@
+【经验分享帖子】http://www.tastones.com/zh-tw/tutorial/arduino/arduino_inter_integrated_circuit/
+【官方教程】https://docs.arduino.cc/learn/communication/wire
+【固定地址解决方案】https://www.youtube.com/watch?v=wqyHbQvcoWw（简介）
+ https://www.bilibili.com/video/BV1aC4y1h7Eb?spm_id_from=333.337.search-card.all.click&vd_sour
+ce=f38530d6f178163c2d9722c77c97093d（简要教学）
+https://randomnerdtutorials.com/tca9548a-i2c-multiplexer-esp32-esp8266-arduino/（保姆级-函数）
+void TCA9548A(uint8_t bus){
+  Wire.beginTransmission(0x70);  // TCA9548A address
+  Wire.write(1 << bus);          // send byte to select bus
+  Wire.endTransmission();
+  Serial.print(bus);
+}
